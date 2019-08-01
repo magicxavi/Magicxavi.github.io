@@ -1,0 +1,2 @@
+# Magicxavi.github.io
+Blog
