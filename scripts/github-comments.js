@@ -45,7 +45,7 @@ function DoGithubComments(comment_id, page_id)
 
                 // Add post button to first page
                 if (page_id == 1)
-                    $("#custom-1").append("<a href='" + url + "#new_comment_field' rel='nofollow' class='mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--white'>Post a comment</a>");
+                    $("#custom-1").append("<a href='" + url + "' rel='nofollow' class='mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--white'>Post a comment</a>");
 
                 // Individual comments
                 $.each(comments, function(i, comment) {
