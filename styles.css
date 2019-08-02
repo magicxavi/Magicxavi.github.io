@@ -320,9 +320,9 @@ body .demo-blog {
   -webkit-justify-content: flex-start;
       -ms-flex-pack: start;
           justify-content: flex-start;
-  -webkit-align-items: stretch;
-      -ms-flex-align: stretch;
-          align-items: stretch;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
   padding: 32px;
   box-sizing: border-box;
 }
