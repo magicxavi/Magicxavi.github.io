@@ -322,7 +322,7 @@ body .demo-blog {
           justify-content: flex-start;
   -webkit-align-items: center;
       -ms-flex-align: center;
-          align-items: stretch;
+          align-items: center;
   padding: 32px;
   box-sizing: border-box;
 }
