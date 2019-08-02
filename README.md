@@ -1,2 +1,2 @@
-# https://Magicxavi.github.io
+# http://Magicxavi.github.io
 Blog
