@@ -16,6 +16,9 @@
         <div id="spinner"></div>
     </div>
     <div id="header">
+	<div id="toggle">
+	<i class="indicator"></i>
+	</div>
     <div id="title">yourname.</div><br>
     <div id="links">
         <a href="#skills">skills</a>
@@ -82,5 +85,13 @@
         made on earth by a human <br><br> <a href="https://imfunniee.github.io">imfunniee</a>
     </div>
 <script src="js/index.js" type="text/javascript"></script>
+<script>
+	const toggle = document.getElementById('toggle');
+	const body = document.querySelector('body');
+	toggle.onclick = function(){
+		body.classList.toggle('active');
+		toggle.classList.toggle('active');
+}
+</script>
 </body>
 </html>
