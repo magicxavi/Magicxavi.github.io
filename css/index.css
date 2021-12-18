@@ -95,12 +95,17 @@ body.active {
     animation: Gradient 20s ease infinite;
     font-family: 'Comfortaa', cursive;
 }
+#box {
+    position:relative;
+	align-items: center;
+	justify-content: center;
+}
 ul {
-	position: relative;
+	position: centered;
+    padding:0% 0%;
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	border-radius: 60px;
 	background: #404040;
 	box-shadow: 0 0px 20px rgba(255,255,255,0.25);
 }
