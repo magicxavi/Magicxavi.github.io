@@ -15,20 +15,23 @@
     </div>
 	
     <div id="header">
-    <label id="inner-text">Dark</label>
-    <div id="toggle">
-	<i class="indicator"></i></div>
-	<div id="title">yourname.</div><br>
-    <div id="box">
-	<ul>
-        <li><a href="#skills"><ion-icon name="paper-plane-outline"></ion-icon></a></li>
-        <li><a href="#work"><ion-icon name="paper-plane-outline"></ion-icon></a></li>
-        <li class-"active"><a href="#contact"><ion-icon name="paper-plane-outline"></ion-icon></a></li>
-		<li><a href="#contact"><ion-icon name="paper-plane-outline"></ion-icon></a></li>
-		<li><a href="#contact"><ion-icon name="paper-plane-outline"></ion-icon></a></li>
-		<div id="marker"></div>
-    </ul>
-	</div>
+        <div id="headerbox">
+            <label id="inner-text">Dark</label>
+            <div id="toggle">
+	        <i class="indicator"></i>
+            </div>
+        </div>
+	    <div id="title">yourname.</div><br>
+        <div id="box">
+	    <ul>
+            <li><a href="#skills"><ion-icon name="paper-plane-outline"></ion-icon></a></li>
+            <li><a href="#work"><ion-icon name="paper-plane-outline"></ion-icon></a></li>
+            <li class-"active"><a href="#contact"><ion-icon name="paper-plane-outline"></ion-icon></a></li>
+		    <li><a href="#contact"><ion-icon name="paper-plane-outline"></ion-icon></a></li>
+		    <li><a href="#contact"><ion-icon name="paper-plane-outline"></ion-icon></a></li>
+		    <div id="marker"></div>
+        </ul>
+	    </div>
 	</div>
 
     <div id="middle">
@@ -99,11 +102,13 @@
 	const middle = document.getElementById('middle');
 	const ul = document.querySelector('ul');
     const Inner_text = document.getElementById('inner-text');
+    const headerbox = document.getElementById('headerbox');
 	toggle.onclick = function(){
 		middle.classList.toggle('active');
 		body.classList.toggle('active');
 		toggle.classList.toggle('active');
 		ul.classList.toggle('active');
+        headerbox.classList.toggle('active');
         if(document.body.classList.contains('active')){
                 Inner_text.innerHTML = 'Light';
             }
