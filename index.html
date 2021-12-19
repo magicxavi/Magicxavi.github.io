@@ -15,9 +15,9 @@
     </div>
 	
     <div id="header">
-	<div id="toggle">
-	<i class="indicator"></i>
-	</div>
+    <label id="inner-text">Dark</label>
+    <div id="toggle">
+	<i class="indicator"></i></div>
 	<div id="title">yourname.</div><br>
     <div id="box">
 	<ul>
@@ -98,11 +98,18 @@
 	const body = document.querySelector('body');
 	const middle = document.getElementById('middle');
 	const ul = document.querySelector('ul');
+    const Inner_text = document.getElementById('inner-text');
 	toggle.onclick = function(){
 		middle.classList.toggle('active');
 		body.classList.toggle('active');
 		toggle.classList.toggle('active');
 		ul.classList.toggle('active');
+        if(document.body.classList.contains('active')){
+                Inner_text.innerHTML = 'Light';
+            }
+            else{
+                Inner_text.innerHTML = 'Dark';
+        }
 }
 </script>
 <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
