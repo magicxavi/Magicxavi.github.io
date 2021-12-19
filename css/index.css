@@ -135,13 +135,11 @@ ul li a ion-icon {
   pointer-events: none;
   opacity: 1;
   transition: 0.25s;
-  color:#1E1E1E;
+  color:#E5E5E5;
 }
 ul.active li a ion-icon {
-	color:#E5E5E5;
 }
 ul li.active a ion-icon {
-	color:#1E1E1E;
 }
 #marker {
 	position: absolute;
@@ -158,11 +156,8 @@ ul li.active a ion-icon {
 	width: 40px;
 	height: 40px;
 	border-radius: 16px;
-	background: #fff;
-	box-shadow: 0 0 15px #C0C0C0,
-				0 0 30px #C0C0C0,
-				0 0 45px #C0C0C0,
-				0 0 60px #C0C0C0;
+	background: rgba(255, 92, 92, 0.5);
+	box-shadow: 0 0 15px #ff0000;
 }
 #middle {
     width:100%;
