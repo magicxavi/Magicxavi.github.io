@@ -184,6 +184,7 @@ ul {
 	display: flex;
 	justify-content: center;
 	align-items: center;
+    border-radius: 16px;
 	background: #404040;
 	box-shadow: 0 0px 20px rgba(255,255,255,0.25);
 }
@@ -200,6 +201,7 @@ ul li a {
 	display: inline-block;
     padding:12px 14px;
 	z-index: 1000;
+    border-radius: 16px;
 	backdrop-filter: blur(15px);
 }
 ul li a ion-icon {
@@ -222,14 +224,15 @@ ul li.active a ion-icon {
 #marker::before {
 	content: '';
 	position: absolute;
-	top: 18px;
+	top: 9px;
 	left: 50%;
 	transform: translateX(-50%);
-	width: 40px;
-	height: 40px;
+	width: 52px;
+	height: 52px;
 	border-radius: 16px;
-	background: rgba(255, 92, 92, 0.5);
-	box-shadow: 0 0 15px #ff0000;
+	background: linear-gradient(90deg, #ff4f4f, #ff57a5, #ff57a5, #ff4f4f);
+    background-size: 200%;
+    animation: glow 8s linear infinite;
 }
 #middle {
     width:100%;
