@@ -131,6 +131,51 @@ body.active::-webkit-scrollbar-thumb {
     position: relative;
     height: 100px;
 }
+button {
+    position: relative;
+    width: 140px;
+	height: 40px;
+    border: none;
+    outline: none;
+    font-size: 20px;
+    font-family: 'Comfortaa', cursive;
+    text-transform: uppercase;
+    cursor: pointer;
+    background: #404040;
+    color: #fff;
+}
+button:last-child:hover {
+    background: linear-gradient(90deg, #ff4f4f, #ff57a5, #ff57a5, #ff4f4f);
+    background-size: 200%;
+}
+button:last-child:before {
+    content: '';
+    position: absolute;
+    background: inherit;
+    top: -5px;
+    right: -5px;
+    bottom: -5px;
+    left: -5px;
+    filter: blur(10px);
+    opacity: 0;
+    transition: opacity 0.5s;
+}
+button:last-child:hover:before {
+    opacity: 1;
+    z-index: -1;
+}
+button:hover {
+    z-index: 1;
+    animation: glow 8s linear infinite;
+}
+@keyframes glow {
+    0%{
+        background-position: 0%;
+    }
+    100%{
+        background-position: 400%;
+    }
+}
 ul {
     position: absolute;
     padding:0% 0%;
