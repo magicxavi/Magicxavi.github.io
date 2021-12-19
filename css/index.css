@@ -108,13 +108,14 @@ body.active::-webkit-scrollbar-thumb {
     text-align: center;
 }
 #box {
-    position:relative;
-	align-items: center;
-	justify-content: center;
+    position: relative;
+    height: 100px;
 }
 ul {
-	position: centered;
+    position: absolute;
     padding:0% 0%;
+    left: 50%;
+    margin-left: -170px;
 	display: flex;
 	justify-content: center;
 	align-items: center;
