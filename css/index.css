@@ -143,6 +143,7 @@ button {
     cursor: pointer;
     background: #404040;
     color: #fff;
+    border-radius: 16px;
 }
 button:last-child:hover {
     background: linear-gradient(90deg, #ff4f4f, #ff57a5, #ff57a5, #ff4f4f);
@@ -156,7 +157,7 @@ button:last-child:before {
     right: -5px;
     bottom: -5px;
     left: -5px;
-    filter: blur(10px);
+    filter: blur(8px);
     opacity: 0;
     transition: opacity 0.5s;
 }
