@@ -32,7 +32,6 @@
     color: #00abec;
 }
 .post header p.post-meta{
-    color: #817c7c;
 }
 
 .post header p.post-tag a{
@@ -42,6 +41,7 @@
     padding: 2px 5px 0px 5px;
     border: 1px solid #00abec;
     margin-top: 2px;
+    border-radius: 16px;
 }
 
 .post img{

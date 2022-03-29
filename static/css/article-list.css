@@ -52,7 +52,9 @@ article .title{
     border-top-right-radius: 16px;
     border-bottom-right-radius: 16px;
 }
-
+article .module p{
+    color: #202020;
+}
 article .readmore{
     display: inline-block;
     line-height: 1em;
@@ -63,12 +65,11 @@ article .readmore{
     color: #404040;
     text-shadow: 0 1px #fff;
     text-decoration: none;
-    margin-top: 10px;
-    margin-bottom: 20px;
+    margin-top: 20px;
+    float:right;
 }
 article .readmore:hover{
     background: #00abec;
-    color: #fff;
     text-decoration: none;
     text-shadow: 0 1px #00abec;
 }
@@ -84,4 +85,7 @@ article footer a{
     color: #202020;
     margin-right: 15px;
     text-decoration: none;
+}
+article footer b{
+    margin-top: 2px;
 }

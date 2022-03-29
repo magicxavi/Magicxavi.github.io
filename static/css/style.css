@@ -37,7 +37,7 @@ input {
     color: #fff;
     opacity: 0.7; 
 }
-button {
+button.search-btn {
     all: unset;
     cursor: pointer;
     position: relative;
