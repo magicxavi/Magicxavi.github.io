@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>magicxavi</title>
+    <description></description>
+    <link>https://magicxavi.github.io/</link>
+    <atom:link href="https://magicxavi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 29 Mar 2022 11:57:14 +0300</pubDate>
+    <lastBuildDate>Tue, 29 Mar 2022 11:57:14 +0300</lastBuildDate>
+    <generator>Jekyll v4.2.2</generator>
+    
+      <item>
+        <title>Java 333</title>
+        <description>&lt;p&gt;333&lt;/p&gt;
+</description>
+        <pubDate>Sat, 19 Oct 2013 00:00:00 +0300</pubDate>
+        <link>https://magicxavi.github.io/java/java-nio/</link>
+        <guid isPermaLink="true">https://magicxavi.github.io/java/java-nio/</guid>
+        
+        <category>Java</category>
+        
+        <category>333</category>
+        
+        
+        <category>Java</category>
+        
+      </item>
+    
+      <item>
+        <title>Java IO</title>
+        <description>&lt;p&gt;222&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 26 Sep 2013 00:00:00 +0300</pubDate>
+        <link>https://magicxavi.github.io/java/java-io/</link>
+        <guid isPermaLink="true">https://magicxavi.github.io/java/java-io/</guid>
+        
+        <category>Java</category>
+        
+        <category>IO</category>
+        
+        
+        <category>Java</category>
+        
+      </item>
+    
+      <item>
+        <title>111</title>
+        <description>&lt;p&gt;111&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 17 Sep 2012 00:00:00 +0300</pubDate>
+        <link>https://magicxavi.github.io/common/why-complement/</link>
+        <guid isPermaLink="true">https://magicxavi.github.io/common/why-complement/</guid>
+        
+        <category>computer</category>
+        
+        
+        <category>common</category>
+        
+      </item>
+    
+  </channel>
+</rss>
