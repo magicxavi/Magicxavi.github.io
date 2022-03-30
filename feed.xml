@@ -3,64 +3,48 @@
   <channel>
     <title>magicxavi</title>
     <description></description>
-    <link>https://magicxavi.github.io/</link>
-    <atom:link href="https://magicxavi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 30 Mar 2022 02:45:28 +0300</pubDate>
-    <lastBuildDate>Wed, 30 Mar 2022 02:45:28 +0300</lastBuildDate>
+    <link>https://Magicxavi.github.io/</link>
+    <atom:link href="https://Magicxavi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 30 Mar 2022 12:21:29 +0300</pubDate>
+    <lastBuildDate>Wed, 30 Mar 2022 12:21:29 +0300</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
     
       <item>
-        <title>Java 333</title>
-        <description>&lt;p&gt;3333333333333333333333333333333333333333333333333333333333333333333333333
-3333333333333333333333333333333333333333333333
-33333333333333333333333333333333333333333333
-3333333333333333333333333333333333333333333333333
-33333333333333333333333333333333333333333&lt;/p&gt;
-</description>
-        <pubDate>Sat, 19 Oct 2013 00:00:00 +0300</pubDate>
-        <link>https://magicxavi.github.io/java/java-nio/</link>
-        <guid isPermaLink="true">https://magicxavi.github.io/java/java-nio/</guid>
-        
-        <category>Java</category>
-        
-        <category>333</category>
-        
-        
-        <category>Java</category>
-        
-      </item>
-    
-      <item>
-        <title>Java IO</title>
-        <description>&lt;p&gt;222&lt;/p&gt;
+        <title>Dot OS 5.2.1 [kenzo/kate]</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://Magicxavi.github.io/static/img/dot-os.png&quot; alt=&quot;Dot icon&quot; /&gt;&lt;/p&gt;
+&lt;h1 id=&quot;dot-os-v521--android-11&quot;&gt;&lt;strong&gt;Dot OS V5.2.1 | Android 11&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;For:&lt;/strong&gt; Redmi Note 3 Pro (kenzo/kate)&lt;br /&gt;
+&lt;strong&gt;Maintained by:&lt;/strong&gt; &lt;a href=&quot;https://t.me/magicxavi&quot;&gt;@Magicxavi&lt;/a&gt;&lt;br /&gt;
+&lt;strong&gt;Build Variant:&lt;/strong&gt; Gapps&lt;br /&gt;
+&lt;strong&gt;Build Date:&lt;/strong&gt; 30/03/2022&lt;/p&gt;
 
-</description>
-        <pubDate>Thu, 26 Sep 2013 00:00:00 +0300</pubDate>
-        <link>https://magicxavi.github.io/java/java-io/</link>
-        <guid isPermaLink="true">https://magicxavi.github.io/java/java-io/</guid>
-        
-        <category>Java</category>
-        
-        <category>IO</category>
-        
-        
-        <category>Java</category>
-        
-      </item>
-    
-      <item>
-        <title>111</title>
-        <description>&lt;p&gt;111&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Device Support:&lt;/strong&gt; &lt;a href=&quot;https://t.me/havoc_kenzo&quot;&gt;@havoc_kenzo&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Device Changelogs:&lt;/strong&gt;&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Bringing back thermal engine from stock.&lt;/li&gt;
+    &lt;li&gt;Fixed crashing of TcpSocketTracker.&lt;/li&gt;
+    &lt;li&gt;Added Hotword blobs.&lt;/li&gt;
+    &lt;li&gt;Updated Dispaly, Media and Audio HAL’s.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
 
+&lt;p&gt;Download Build : &lt;a href=&quot;https://www.pling.com/p/1749024/#files&quot;&gt;HERE&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
-        <pubDate>Mon, 17 Sep 2012 00:00:00 +0300</pubDate>
-        <link>https://magicxavi.github.io/common/why-complement/</link>
-        <guid isPermaLink="true">https://magicxavi.github.io/common/why-complement/</guid>
+        <pubDate>Wed, 30 Mar 2022 00:00:00 +0300</pubDate>
+        <link>https://Magicxavi.github.io/roms/Dot-OS-5.2.1-kenzo/</link>
+        <guid isPermaLink="true">https://Magicxavi.github.io/roms/Dot-OS-5.2.1-kenzo/</guid>
         
-        <category>computer</category>
+        <category>kenzo</category>
+        
+        <category>kate</category>
+        
+        <category>dot</category>
         
         
-        <category>common</category>
+        <category>ROMs</category>
         
       </item>
     

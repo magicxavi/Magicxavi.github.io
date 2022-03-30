@@ -5,34 +5,22 @@
         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     
     <url>
-        <loc>https://magicxavi.github.io/java/java-nio/</loc>
-        <lastmod>2022-03-30T02:45:28+03:00</lastmod>
-        <changefreq>weekly</changefreq>
-    </url>
-    
-    <url>
-        <loc>https://magicxavi.github.io/java/java-io/</loc>
-        <lastmod>2022-03-30T02:45:28+03:00</lastmod>
-        <changefreq>weekly</changefreq>
-    </url>
-    
-    <url>
-        <loc>https://magicxavi.github.io/common/why-complement/</loc>
-        <lastmod>2022-03-30T02:45:28+03:00</lastmod>
+        <loc>https://Magicxavi.github.io/roms/Dot-OS-5.2.1-kenzo/</loc>
+        <lastmod>2022-03-30T12:21:29+03:00</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     
     
     <url>
-        <loc>https://magicxavi.github.io/archive/</loc>
-        <lastmod>2022-03-30T02:45:28+03:00</lastmod>
+        <loc>https://Magicxavi.github.io/archive/</loc>
+        <lastmod>2022-03-30T12:21:29+03:00</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     
     
     <url>
-        <loc>https://magicxavi.github.io/tags/</loc>
-        <lastmod>2022-03-30T02:45:28+03:00</lastmod>
+        <loc>https://Magicxavi.github.io/tags/</loc>
+        <lastmod>2022-03-30T12:21:29+03:00</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     

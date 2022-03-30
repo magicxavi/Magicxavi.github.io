@@ -26,15 +26,19 @@
 .tag-box a {
     padding: 4px 6px;
     margin: 2px;
-    background-color: #e6e6e6;
+    background-color: #303030;
     -webkit-border-radius: 4px;
     -moz-border-radius: 4px;
-    border-radius: 2px;
+    border-radius: 12px;
     text-decoration: none;
+    color: #00abec;
 }
 
 .tag-box a span {
     vertical-align: super;
     font-size: 10px;
     font-size: 0.875rem;
+}
+.url-box li a{
+    color: #00abec;
 }

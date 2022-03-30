@@ -43,7 +43,18 @@
     margin-top: 2px;
     border-radius: 16px;
 }
-
+.post article{
+    text-align: center;
+}
+.post article strong{
+    text-decoration: underline;
+}
+.post article ul li a{
+    color: #00abec;
+}
+.post article p a{
+    color: #00abec;
+}
 .post img{
     max-width: 100%;
     vertical-align: middle;
@@ -57,18 +68,23 @@
  * Blockquotes
  */
 .post blockquote {
-    border-left: 5px solid #D6DBDF;
-    background: rgba(112,138,153,.1);
+    border-left: 5px solid #00abec;
+    background: #0ab2ff44;
     font-size: 100%;
 }
 .post blockquote:last-child {
     margin-bottom: 0;
 }
-
+.post blockquote strong {
+    text-decoration: underline;
+    font-size: 100%;
+}
 .post pre {
     overflow: auto;
     word-wrap: normal;
     white-space: pre;
+    border-radius: 12px;
+    background: #0ab2ff44;
 }
 
 .post pre code{

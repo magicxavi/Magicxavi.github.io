@@ -9,7 +9,7 @@ article header{
     margin-bottom: 5px;
     line-height: 1em;
     display: block;
-    width: 120px;
+    width: 128px;
     height: 20px;
     scroll-behavior: smooth;
 }
@@ -54,6 +54,25 @@ article .title{
 }
 article .module p{
     color: #202020;
+    text-align: center;
+}
+article .module p a{
+    color: #00abec;
+}
+article .module h1{
+    color: #202020;
+    display:flex;
+    justify-content: center;
+}
+article .module h2{
+    color: #202020;
+    display:flex;
+    justify-content: center;
+}
+article .module h3{
+    color: #202020;
+    display:flex;
+    justify-content: center;
 }
 article .readmore{
     display: inline-block;
