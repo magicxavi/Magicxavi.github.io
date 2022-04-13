@@ -108,3 +108,19 @@ article footer a{
 article footer b{
     margin-top: 2px;
 }
+@media screen and (max-width: 680px) {
+    article{
+        padding-right: 12px;
+        padding-left: 6px;
+        padding-top: 2%;
+        margin-top: 3em;
+    }
+    article .module {
+        position: relative;
+        width: 90%;
+        overflow: hidden;
+        padding: 25px;
+        background: #808080;
+        border-radius: 16px;
+    }
+}
