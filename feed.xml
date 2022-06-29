@@ -5,8 +5,8 @@
     <description></description>
     <link>https://Magicxavi.github.io/</link>
     <atom:link href="https://Magicxavi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 17 Apr 2022 12:14:01 +0300</pubDate>
-    <lastBuildDate>Sun, 17 Apr 2022 12:14:01 +0300</lastBuildDate>
+    <pubDate>Thu, 30 Jun 2022 00:35:18 +0300</pubDate>
+    <lastBuildDate>Thu, 30 Jun 2022 00:35:18 +0300</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
     
       <item>
@@ -27,7 +27,6 @@
     &lt;li&gt;Added new NTP servers for faster Location.&lt;/li&gt;
     &lt;li&gt;Improved GPS stability and accuracy.&lt;/li&gt;
     &lt;li&gt;Enabled LiveDisplay HAL for picture adjustment.&lt;/li&gt;
-    &lt;li&gt;Fixed 48MP mode in miui camera.&lt;/li&gt;
     &lt;li&gt;Improved UDFPS callback delay’s.&lt;/li&gt;
     &lt;li&gt;Lowered size of UDFPS scan circle-point (theoretically this change should increase scanning speed but requires a good finger scan)&lt;/li&gt;
   &lt;/ul&gt;
