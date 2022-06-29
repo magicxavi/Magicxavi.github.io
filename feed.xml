@@ -5,9 +5,63 @@
     <description></description>
     <link>https://Magicxavi.github.io/</link>
     <atom:link href="https://Magicxavi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 30 Jun 2022 01:06:06 +0300</pubDate>
-    <lastBuildDate>Thu, 30 Jun 2022 01:06:06 +0300</lastBuildDate>
+    <pubDate>Thu, 30 Jun 2022 01:27:41 +0300</pubDate>
+    <lastBuildDate>Thu, 30 Jun 2022 01:27:41 +0300</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
+    
+      <item>
+        <title>Syberia OS 5.4 [30/06/2022][laurel_sprout]</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://Magicxavi.github.io/static/img/Syberia.png&quot; alt=&quot;Syberia icon&quot; /&gt;&lt;/p&gt;
+&lt;h1 id=&quot;syberia-os-v54--android-121&quot;&gt;&lt;strong&gt;Syberia OS V5.4 | Android 12.1&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;For:&lt;/strong&gt; MI A3 (laurel_sprout)&lt;br /&gt;
+&lt;strong&gt;Maintained by:&lt;/strong&gt; &lt;a href=&quot;https://t.me/magicxavi&quot;&gt;@Magicxavi&lt;/a&gt;&lt;br /&gt;
+&lt;strong&gt;Build Variant:&lt;/strong&gt; Gapps&lt;br /&gt;
+&lt;strong&gt;Build Date:&lt;/strong&gt; 30/06/2022&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Device Support:&lt;/strong&gt; &lt;a href=&quot;https://t.me/syberia_laurel_sprout&quot;&gt;@syberia_laurel_sprout&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Device Changelogs:&lt;/strong&gt;&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Removed mic boost.&lt;/li&gt;
+    &lt;li&gt;VoiP changes.&lt;/li&gt;
+    &lt;li&gt;Added keylayout for wired headphones.&lt;/li&gt;
+    &lt;li&gt;Again increased haptics a bit.&lt;/li&gt;
+    &lt;li&gt;Dropping prebuilt camera stack and building OSS camera stack.&lt;/li&gt;
+    &lt;li&gt;Reworked Syberia UI Style.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Bugs:&lt;/strong&gt;&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Some modes in MIUI camera are not working&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt;&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;This build contains big changes for UI, so to avoid issues “clean flash” recommended&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Download Build : &lt;a href=&quot;https://syberiaos.com/downloads#laurel_sprout&quot;&gt;HERE&lt;/a&gt;&lt;br /&gt;
+Mirror (Support me) : &lt;a href=&quot;https://www.pling.com/p/1766569/#files&quot;&gt;HERE&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+</description>
+        <pubDate>Thu, 30 Jun 2022 00:00:00 +0300</pubDate>
+        <link>https://Magicxavi.github.io/roms/Syberia-OS-5.4-30-06-2022-laurel-sprout/</link>
+        <guid isPermaLink="true">https://Magicxavi.github.io/roms/Syberia-OS-5.4-30-06-2022-laurel-sprout/</guid>
+        
+        <category>laurel</category>
+        
+        <category>syberia</category>
+        
+        
+        <category>ROMs</category>
+        
+      </item>
     
       <item>
         <title>Syberia OS 5.4 [01/06/2022][laurel_sprout]</title>
