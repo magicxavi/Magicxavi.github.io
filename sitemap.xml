@@ -5,40 +5,46 @@
         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     
     <url>
+        <loc>https://Magicxavi.github.io/roms/Syberia-OS-5.4-01-07-2022-laurel-sprout/</loc>
+        <lastmod>2022-07-01T22:26:35+03:00</lastmod>
+        <changefreq>weekly</changefreq>
+    </url>
+    
+    <url>
         <loc>https://Magicxavi.github.io/roms/Syberia-OS-5.4-30-06-2022-laurel-sprout/</loc>
-        <lastmod>2022-06-30T01:27:41+03:00</lastmod>
+        <lastmod>2022-07-01T22:26:35+03:00</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     
     <url>
         <loc>https://Magicxavi.github.io/roms/Syberia-OS-5.4-01-06-2022-laurel-sprout/</loc>
-        <lastmod>2022-06-30T01:27:41+03:00</lastmod>
+        <lastmod>2022-07-01T22:26:35+03:00</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     
     <url>
         <loc>https://Magicxavi.github.io/roms/Syberia-OS-5.4-laurel-sprout/</loc>
-        <lastmod>2022-06-30T01:27:41+03:00</lastmod>
+        <lastmod>2022-07-01T22:26:35+03:00</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     
     <url>
         <loc>https://Magicxavi.github.io/roms/Dot-OS-5.2.1-kenzo/</loc>
-        <lastmod>2022-06-30T01:27:41+03:00</lastmod>
+        <lastmod>2022-07-01T22:26:35+03:00</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     
     
     <url>
         <loc>https://Magicxavi.github.io/archive/</loc>
-        <lastmod>2022-06-30T01:27:41+03:00</lastmod>
+        <lastmod>2022-07-01T22:26:35+03:00</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     
     
     <url>
         <loc>https://Magicxavi.github.io/tags/</loc>
-        <lastmod>2022-06-30T01:27:41+03:00</lastmod>
+        <lastmod>2022-07-01T22:26:35+03:00</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     
