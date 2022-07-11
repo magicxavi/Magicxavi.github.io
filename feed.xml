@@ -5,9 +5,55 @@
     <description></description>
     <link>https://Magicxavi.github.io/</link>
     <atom:link href="https://Magicxavi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 01 Jul 2022 22:26:35 +0300</pubDate>
-    <lastBuildDate>Fri, 01 Jul 2022 22:26:35 +0300</lastBuildDate>
+    <pubDate>Tue, 12 Jul 2022 01:22:24 +0300</pubDate>
+    <lastBuildDate>Tue, 12 Jul 2022 01:22:24 +0300</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
+    
+      <item>
+        <title>Syberia OS 5.4 [11/07/2022][laurel_sprout]</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://Magicxavi.github.io/static/img/Syberia.png&quot; alt=&quot;Syberia icon&quot; /&gt;&lt;/p&gt;
+&lt;h1 id=&quot;syberia-os-v54--android-121&quot;&gt;&lt;strong&gt;Syberia OS V5.4 | Android 12.1&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;For:&lt;/strong&gt; MI A3 (laurel_sprout)&lt;br /&gt;
+&lt;strong&gt;Maintained by:&lt;/strong&gt; &lt;a href=&quot;https://t.me/magicxavi&quot;&gt;@Magicxavi&lt;/a&gt;&lt;br /&gt;
+&lt;strong&gt;Build Variant:&lt;/strong&gt; Gapps&lt;br /&gt;
+&lt;strong&gt;Build Date:&lt;/strong&gt; 11/07/2022&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Device Support:&lt;/strong&gt; &lt;a href=&quot;https://t.me/syberia_laurel_sprout&quot;&gt;@syberia_laurel_sprout&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Device Changelogs:&lt;/strong&gt;&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Fixed GPS logspam after caf update.&lt;/li&gt;
+    &lt;li&gt;Updated GPS blobs to a12.&lt;/li&gt;
+    &lt;li&gt;Updated GPS stack to LA.UM.9.11.r1-05600-NICOBAR.QSSI12.0&lt;/li&gt;
+    &lt;li&gt;Ported DolbyAtmos from MOTO G PRO.&lt;/li&gt;
+    &lt;li&gt;Implemented VPN tethering support.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Bugs:&lt;/strong&gt;&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Some modes in MIUI camera are not working&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Download Build : &lt;a href=&quot;https://syberiaos.com/downloads#laurel_sprout&quot;&gt;HERE&lt;/a&gt;&lt;br /&gt;
+Mirror (Support me) : &lt;a href=&quot;https://www.pling.com/p/1766569/#files&quot;&gt;HERE&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+</description>
+        <pubDate>Mon, 11 Jul 2022 00:00:00 +0300</pubDate>
+        <link>https://Magicxavi.github.io/roms/Syberia-OS-5.4-11-07-2022-laurel-sprout/</link>
+        <guid isPermaLink="true">https://Magicxavi.github.io/roms/Syberia-OS-5.4-11-07-2022-laurel-sprout/</guid>
+        
+        <category>laurel</category>
+        
+        <category>syberia</category>
+        
+        
+        <category>ROMs</category>
+        
+      </item>
     
       <item>
         <title>Syberia OS 5.4 [01/07/2022][laurel_sprout]</title>
